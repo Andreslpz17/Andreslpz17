@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Andreslpz17
-- 👀 I’m interested in  el desarrollo del Software
-- 🌱 I’m currently learning  Python, Html, CSS Y  SQL.
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Andres Lopezz
+- 👀 I’m interested in  software development
+- 🌱 I’m currently learning  Python, Html, CSS Y  JS.
 
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- andresjlopez@gmail.com
 
 <!---
 Andreslpz17/Andreslpz17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
